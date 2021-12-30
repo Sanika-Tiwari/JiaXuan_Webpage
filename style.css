@@ -1,0 +1,36 @@
+body 
+{
+  font-family: Raleway, sans-serif;
+  text-align: Center;
+  background-color: #FFF9C4;
+}
+h1
+{
+  color: pink;
+}
+h3
+{
+  color: lightblue;
+}
+p
+{
+  color: violet;
+}
+a
+{
+  color: #FFAB91;
+  border-style: solid;
+  border-radius:10px;
+  padding:1px;
+}
+button
+{
+  Background-color:#FFF9C4;
+  Border:2px solid #FF4081;
+  font-family: Merriweather, serif;
+  font-weight:bold;
+  color:#FF4081;
+}
+.Account{
+    margin:10px;
+}
